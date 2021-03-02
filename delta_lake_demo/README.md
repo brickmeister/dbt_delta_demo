@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+Welcome to your databricks delta demo project!
 
 ### Using the starter project
 
